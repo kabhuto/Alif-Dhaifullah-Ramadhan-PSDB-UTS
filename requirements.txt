@@ -18,6 +18,7 @@ gitdb==4.0.11
 GitPython==3.1.40
 htbuilder==0.6.2
 idna==3.4
+ipython==8.16.1
 importlib-metadata==6.8.0
 importlib-resources==6.1.1
 Jinja2==3.1.2
@@ -54,6 +55,7 @@ rich==13.7.0
 rpds-py==0.13.0
 scikit-learn==1.2.2
 scipy==1.10.1
+seaborn==0.13.0
 six==1.16.0
 smmap==5.0.1
 soupsieve==2.5
